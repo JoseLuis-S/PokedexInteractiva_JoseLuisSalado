@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475242584050",
+    "project_id": "pokedexinteractiva",
+    "storage_bucket": "pokedexinteractiva.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475242584050:android:5ffbf94fd762689d717d6b",
+        "android_client_info": {
+          "package_name": "com.jlsh.pokedexinteractiva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn9pOudAZf9itxtAl4gwTSL6PANsCIXB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
